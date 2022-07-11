@@ -1,0 +1,15 @@
+[submodule "uCore-RV-64-lab"]
+	path = uCore-RV-64-lab
+	url = https://github.com/hw0505/uCore-RV-64-lab.git
+[submodule "uCore-RV-64-test"]
+	path = uCore-RV-64-test
+	url = https://github.com/hw0505/uCore-RV-64-test.git
+[submodule "uCore-RV-64-conf"]
+	path = uCore-RV-64-conf
+	url = https://github.com/uCore-RV-64/uCore-RV-64-conf.git
+[submodule "uCore-RV-64-answer"]
+	path = uCore-RV-64-answer
+	url = https://github.com/uCore-RV-64/uCore-RV-64-answer.git
+[submodule "uCore-RV-64-doc"]
+	path = uCore-RV-64-doc
+	url = https://github.com/uCore-RV-64/uCore-RV-64-doc.git
